@@ -29,7 +29,7 @@ button.jqTransformButton span {
 	float: left;
 	padding: 0px 4px 0px 0px; /* sliding doors padding */
 	margin: 0px;
-	height: 33px;
+	height: auto;
 }
 
 button.jqTransformButton span span {
